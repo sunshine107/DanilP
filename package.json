@@ -1,0 +1,24 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "npm": "6.1.0",
+    "node": "8.11.1"
+  },
+  "dependencies": {
+    "ajv": "^6.5.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4",
+    "react-smooth-scrollbar": "^8.0.6",
+    "smooth-scrollbar": "^8.2.7",
+    "tk-smooth-scrollbar": "^1.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
