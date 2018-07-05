@@ -20,7 +20,7 @@ class App extends Component {
               <div className="page-link" dest="portfolio">portfolio</div>
               <div className="page-link" dest="contact">contact</div>
             </div>
-              <i class="fas fa-bars mdi-menu"></i>
+              <i className="fas fa-bars mdi-menu"></i>
           </nav>
         </div>
      );
